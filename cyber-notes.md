@@ -10,8 +10,8 @@
 
 ## CyberTrack -> | Started 7/28/2024
 
-> Welcome to the Cyber4RAM badge, a badge designed to build awareness about cybersecurity among those who currently work or plan to work in the areas of robotics/>automation/mechatronics. Since so many advanced manufacturing technologies are now >connected, it is critical that technicians understand some cybersecurity basics in order to keep the machines they operate protected from outside threats.
-> The Cyber4RAM badge is designed to expose learners' to content that will take the >basic principles of cybersecurity and apply them to robotics/automation/mechatronics >and other Industry 4.0 technologies. As our manufacturing environments integrate more
+> Welcome to the Cyber4RAM badge, a badge designed to build awareness about cybersecurity among those who currently work or plan to work in the areas of robotics/automation/mechatronics. Since so many advanced manufacturing technologies are now connected, it is critical that technicians understand some cybersecurity basics in order to keep the machines they operate protected from outside threats.
+> The Cyber4RAM badge is designed to expose learners' to content that will take the basic principles of cybersecurity and apply them to robotics/automation/mechatronics and other Industry 4.0 technologies. As our manufacturing environments integrate more
 > technology into their operation, operational technicians must be aware of the many cybersecurity threats that exist in an Internet of Things (IoT) environment that now exists on manufacturing floors.
 
 Protect machines and software connected to IoT and other manufacturing tech.
@@ -336,32 +336,72 @@ _Types of Malware_
 
 > Human error is the biggest issue with security and privacy
 
-- Privacy
+- **Privacy**
 
-- Security
+- **Security**
   - focused on ensuring CIA triad
     - Confidentiality
     - Integrity
     - Accessibility
   - (AAA) to help ensure that only authorized users can access data
-    - Authentication
+    - _Authentication_
       - passwords
       - smart cards
       - biometrics
       - digital certificates
-    - Authorization
+    - _Authorization_
       - physical access controls
       - network traffic filters
-    - Accounting
+    - _Accounting_
       - Logs
 
 #### **CIA Triad**
 
+> The CIA Triad is a fundamental cybersecurity model that acts as a foundation in the development of security policies designed to protect data.
+
+> In theory, the CIA Triad combines three distinct means of interacting with data to create a model for data security.
+
+> The Triad is essential because it is a reliable and balanced way to assess data security. It weighs the relationship between confidentiality, integrity, and availability from an overarching perspective. The framework requires that any attempt to secure digital information will not weaken another pillar of defense.
+
+---
+
+#### **Tenets**
+
 **Confidentiality**
+
+- only authorized users have access
+- protecting information
+- who sees the document
 
 **Intergity**
 
-**Accessibility**
+- trustworthiness and veracity of the data
+- reliability and authentic
+- any attempts to alter are logged and detectable
+
+**Availability**
+
+- when and where users need the info
+- crucial
+- data is only usable when accessed
+
+<details>
+
+<summary> The Cube </summary>
+
+![Three-Sides to Cube](image-1.png)
+
+![The Cube](./image.png)
+
+</details>
+
+---
+
+### Day 005 | 8/15/2024 - Thursday
+
+---
+
+### End of Document
 
 ---
 
