@@ -395,13 +395,63 @@ _Types of Malware_
 
 </details>
 
+### Day 004 | 9/9/2024 - Monday
+
+**Digital Forensics**
+
+- Define
+- security
+- list
+
+use of tech to search for evidence
+
+damage that occurred during a cyber event
+
+any piece of tech that has:
+
+- processor
+- memory
+- storage
+- volatile
+- RAM
+- swap andd paging files
+- disk
+- logs
+- arvhieved data
+- capture a system image as early as possible
+- conduct an analysis
+- copyv fv
+- original evidence not modded
+
+> Volatile data must be collected first, as volatile data may change quickly. Examples of volatile data include RAM, swap and paging files, files on disk, logs, and archived data. It is important to capture a system image as early as possible, and then conduct an analysis on the copy of the image, ensuring that the original evidence is not modified. Additionally, network traffic and logs, video, other media need to be captured, along with timestamps.
+
+Chain of custody
+evidence gathered and documented
+
+handleded and what is done with it
+
+was protected from alteration
+
+everyone who had contact with evidence
+
+CHAIN OF DUSTODY MUST be clearly documented in all cases
+
 ---
 
 ### Day 005 | 8/15/2024 - Thursday
 
+- The result of the incident is theft or misuse of confidential information of any type
+- The incident affects the network infrastructure and services
+- The incident provides unauthorized access to any resource on the network
+- The incident provides a platform for launching attacks against a third party
+
+collecting and preserving data
+network forensics is analysis network traffic
+mobile is from smart phone and tablets
+
 ---
 
-### End of Document
+#### End of Document
 
 ---
 

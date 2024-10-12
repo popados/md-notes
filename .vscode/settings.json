@@ -1,0 +1,7 @@
+{
+    "editor.foldingStrategy": "auto",
+    "editor.stickyScroll.defaultModel": "foldingProviderModel",
+    "vim.smartRelativeLine": true,
+    "vim.foldfix": true,
+    "vim.startInInsertMode": false
+}

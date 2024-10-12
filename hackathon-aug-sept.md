@@ -25,9 +25,27 @@ Ideas:
 - SPONGEBOB
 - SIMPSONS
 - BEACH DAY
--
+- ***
 
----
+create a circle -> have a square around it with something
+
+- orbits
+
+buildings
+
+- lights up
+
+barn
+
+- animals appear
+
+trees
+
+- leaves change color
+
+sun to moon
+
+- changes back and forth
 
 [Jump to Top](#top-of-doc)
 
