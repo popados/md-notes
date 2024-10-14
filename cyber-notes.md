@@ -332,7 +332,7 @@ _Types of Malware_
 
 ### Day 004 | 8/14/2024 - Wednesday
 
-**Privacy vs Security**
+#### **Privacy vs Security**
 
 > Human error is the biggest issue with security and privacy
 
@@ -451,7 +451,7 @@ mobile is from smart phone and tablets
 
 ---
 
-#### End of Document
+## End of Document
 
 ---
 

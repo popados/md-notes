@@ -99,6 +99,7 @@ Took a walk today. Three times around the block. I saw a cat, bluejay and butter
   -
 
 Going to dinner with my Dad maybe. Got Gyro 360 for dinner. It was good. Watched Robinhood the new Netflix movie. Also
+
 Looking to get more coding and writing done. Let's leave up the markdown file. Get used to VIM and then go from there. Learning the shortcuts and the different ways of copying and pasting is interesting. I don't know what registers are yet.
 
 Played some games. Interesting. Lost alot. Like alot alot. Laggy. Spells not going. ODD-MONEY.
@@ -145,11 +146,57 @@ Where do I start with the Pokedex? Should I start over with new html/css?
   - Card Game
   - League Site
 
-Writing my Medium article was fun.
+Writing my Medium article was fun. Everyone seems to hate it. What luck.
+
+Write more articles about whatever?
 
 ---
 
 ### 005 10/11/2024 - Friday
+
+I didn't do much today. No writing. Just worked on my Medium article and some web stuff.
+
+What else is going on? OH RIGHT THIS IS WAR??????? OR LOVE **AND** PEACE? Maybe I'll find out one day.
+
+Made nothing but got some cleaning done.
+
+Need to do more game design.
+
+Want to make an HTML cheatsheet.
+
+---
+
+### 006 10/12/2024 - Saturday
+
+slept and gamed and did some webstuffs
+
+### 007 10/13/2024 - Sunday
+
+- **Monday TODO List**
+
+  - Add to websites and markdown
+  - Probation Meeting
+  - HTML Cheatsheet
+  - DevSlopes Ciriculum
+  - Clean
+    - BATHROOMS
+    - Sheets
+  - W-9 [x]
+  - Learn Kernel-Level Programming?
+  - Learn more design
+  - Upwork
+  - VS Code Extensions
+
+- **What do I need to do for work.**
+  - Loom Videos
+  - Write Proposals
+  - Present myself?
+
+I need to do some housework. Mop. Dishes. Sheets. Bathrooms. Laundry. Organize. Tables.
+
+### 008 10/14/2024 - Monday
+
+I have probation appointment today. Let's see what happens. Should be fine. Just in case I called my lawyer already.
 
 ---
 

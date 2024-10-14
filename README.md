@@ -25,7 +25,7 @@
 <div id="end-of-doc"></div>
 
 <details>
-<summary>
-Notes :
-</summary>
+    <summary>
+        Notes :
+    </summary>
 </details>

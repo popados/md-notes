@@ -3,5 +3,11 @@
     "editor.stickyScroll.defaultModel": "foldingProviderModel",
     "vim.smartRelativeLine": true,
     "vim.foldfix": true,
-    "vim.startInInsertMode": false
+    "vim.startInInsertMode": false,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": false,
+    "terminal.explorerKind": "both",
+    "terminal.integrated.automationProfile.windows": "Git Bash",
+    "terminal.integrated.enableImages": false,
+    "csharp.debug.console": "externalTerminal",
+    "editor.wordWrap": "on"
 }
