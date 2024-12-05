@@ -120,7 +120,7 @@ To protect and maintain the existance of:
 
   ITAM - > IT Asset Management
 
-ITSM - > IT Service Management
+  ITSM - > IT Service Management
 
 ### Day 002 | 7/29/2024 - Monday
 
